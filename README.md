@@ -1,0 +1,2 @@
+# Telecom-Subscriber-Churn-Prediction
+Project done on determination of subscriber leaving a telecom subscription. This project is a 2 split scenario where churn prediction is done based on only cost data (conventional telecom) and prediction based on services provided by the telecom service (such as streaming, internet etc). Classification is done using logistic regression, decision trees and random forest and all 3 models are evaluated to find best performing model using confusion matrix, accuracy, precision, recall and ROC curves
